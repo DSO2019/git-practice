@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="myproject" default="project" basedir="." description="Set up project">
+    <target name="project">
+        <echo msg="Deploy" />
+        <phingcall target="importedTarget" />
+    </target>
+    <import file="import.xml"/>
+</project>
