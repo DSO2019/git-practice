@@ -1,0 +1,1 @@
+C:\Users\Bernardo Elizondo\Documents\ITESO\7mo Semestre\Diseño de Software\git-practice\csharp\csharp_bernardo\csharp_bernardo\bin\Debug\csharp_bernardo.exe.config
