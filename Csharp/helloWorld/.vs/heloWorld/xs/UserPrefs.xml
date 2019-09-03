@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{ED099142-4BEF-4C76-A67F-F4B40F71E9A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="heloWorld/Program.cs">
+    <Files>
+      <File FileName="heloWorld/Program.cs" Line="9" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="heloWorld" expanded="True">
+            <Node name="heloWorld" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.heloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
