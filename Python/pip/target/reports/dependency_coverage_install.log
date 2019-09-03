@@ -1,0 +1,5 @@
+  The scripts coverage-3.6.exe, coverage.exe and coverage3.exe are installed in 'c:\users\lmrod\appdata\local\programs\python\python36\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppressSuccessfully installed coverage-4.5.4
+ation.
+You are using pip version 10.0.1, however version 19.2.3 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
