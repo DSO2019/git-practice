@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/hello_world_example.csproj": {}
+  },
+  "projects": {
+    "/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/hello_world_example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/hello_world_example.csproj",
+        "projectName": "hello_world_example",
+        "projectPath": "/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/hello_world_example.csproj",
+        "packagesPath": "/home/joseluis/.nuget/packages/",
+        "outputPath": "/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/joseluis/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

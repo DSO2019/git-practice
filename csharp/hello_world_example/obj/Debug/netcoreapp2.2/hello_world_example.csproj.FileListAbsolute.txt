@@ -1,0 +1,11 @@
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/bin/Debug/netcoreapp2.2/hello_world_example.deps.json
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/bin/Debug/netcoreapp2.2/hello_world_example.runtimeconfig.json
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/bin/Debug/netcoreapp2.2/hello_world_example.runtimeconfig.dev.json
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/bin/Debug/netcoreapp2.2/hello_world_example.dll
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/bin/Debug/netcoreapp2.2/hello_world_example.pdb
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/obj/Debug/netcoreapp2.2/hello_world_example.csprojAssemblyReference.cache
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/obj/Debug/netcoreapp2.2/hello_world_example.csproj.CoreCompileInputs.cache
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/obj/Debug/netcoreapp2.2/hello_world_example.AssemblyInfoInputs.cache
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/obj/Debug/netcoreapp2.2/hello_world_example.AssemblyInfo.cs
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/obj/Debug/netcoreapp2.2/hello_world_example.dll
+/home/joseluis/Documentos/ITESO/DSO/JLTA/git-practice/csharp/hello_world_example/obj/Debug/netcoreapp2.2/hello_world_example.pdb
