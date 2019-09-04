@@ -1,0 +1,12 @@
+You are using pip version 9.0.3, however version 19.2.3 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+-py2.py3-none-any.whl (70kB)
+Collecting pyflakes<2.2.0,>=2.1.0 (from flake8~=3.5)
+  Downloading https://files.pythonhosted.org/packages/84/f2/ed0ffb887f8138a8fe5a621b8c0bb9598bfb3989e029f6c6a85ee66628ee/pyflakes-2.1.1-py2.py3-none-any.whl (59kB)
+Collecting entrypoints<0.4.0,>=0.3.0 (from flake8~=3.5)
+  Downloading https://files.pythonhosted.org/packages/ac/c6/44694103f8c221443ee6b0041f69e2740d89a25641e62fb4f2ee568f2f9c/entrypoints-0.3-py2.py3-none-any.whl
+Collecting pycodestyle<2.6.0,>=2.5.0 (from flake8~=3.5)
+  Downloading https://files.pythonhosted.org/packages/0e/0c/04a353e104d2f324f8ee5f4b32012618c1c86dd79e52a433b64fceed511b/pycodestyle-2.5.0-py2.py3-none-any.whl (51kB)
+Requirement already satisfied: mccabe<0.7.0,>=0.6.0 in c:\users\artur\appdata\roaming\python\python37\site-packages (from flake8~=3.5)
+Installing collected packages: pyflakes, entrypoints, pycodestyle, flake8
+Successfully installed entrypoints-0.3 flake8-3.7.8 pycodestyle-2.5.0 pyflakes-2.1.1
