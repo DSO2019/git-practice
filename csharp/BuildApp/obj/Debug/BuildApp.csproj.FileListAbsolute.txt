@@ -1,0 +1,9 @@
+C:\Users\IanGod\Documents\ITESO\7Semestre\DiseñoDeSoftware\29Ago2019\git-practice\csharp\BuildApp\bin\Debug\BuildApp.exe.config
+C:\Users\IanGod\Documents\ITESO\7Semestre\DiseñoDeSoftware\29Ago2019\git-practice\csharp\BuildApp\bin\Debug\BuildApp.exe
+C:\Users\IanGod\Documents\ITESO\7Semestre\DiseñoDeSoftware\29Ago2019\git-practice\csharp\BuildApp\bin\Debug\BuildApp.pdb
+C:\Users\IanGod\Documents\ITESO\7Semestre\DiseñoDeSoftware\29Ago2019\git-practice\csharp\BuildApp\obj\Debug\BuildApp.csprojAssemblyReference.cache
+C:\Users\IanGod\Documents\ITESO\7Semestre\DiseñoDeSoftware\29Ago2019\git-practice\csharp\BuildApp\obj\Debug\BuildApp.Properties.Resources.resources
+C:\Users\IanGod\Documents\ITESO\7Semestre\DiseñoDeSoftware\29Ago2019\git-practice\csharp\BuildApp\obj\Debug\BuildApp.csproj.GenerateResource.cache
+C:\Users\IanGod\Documents\ITESO\7Semestre\DiseñoDeSoftware\29Ago2019\git-practice\csharp\BuildApp\obj\Debug\BuildApp.csproj.CoreCompileInputs.cache
+C:\Users\IanGod\Documents\ITESO\7Semestre\DiseñoDeSoftware\29Ago2019\git-practice\csharp\BuildApp\obj\Debug\BuildApp.exe
+C:\Users\IanGod\Documents\ITESO\7Semestre\DiseñoDeSoftware\29Ago2019\git-practice\csharp\BuildApp\obj\Debug\BuildApp.pdb
