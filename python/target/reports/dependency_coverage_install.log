@@ -1,0 +1,5 @@
+You are using pip version 9.0.3, however version 19.2.3 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+.5.4-cp37-cp37m-win32.whl (182kB)
+Installing collected packages: coverage
+Successfully installed coverage-4.5.4

@@ -1,0 +1,6 @@
+You are using pip version 9.0.3, however version 19.2.3 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+12e/unittest_xml_reporting-2.5.1-py2.py3-none-any.whl
+Requirement already satisfied: six>=1.4.0 in c:\users\alejandro rios jasso\appdata\local\programs\python\python37-32\lib\site-packages (from unittest-xml-reporting~=2.0)
+Installing collected packages: unittest-xml-reporting
+Successfully installed unittest-xml-reporting-2.5.1
